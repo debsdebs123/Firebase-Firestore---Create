@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724194235955",
+    "project_id": "lista-de-tarefas-compose-a7f4a",
+    "storage_bucket": "lista-de-tarefas-compose-a7f4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724194235955:android:1ab8b2a7e91f02c0a1f546",
+        "android_client_info": {
+          "package_name": "com.example.appfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724194235955-m8l0k1rjma1v46ffs5e4rmc4vm3t8lup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqmgxC26SJDbiaddT_TNGkKSZu8S80ndk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724194235955-m8l0k1rjma1v46ffs5e4rmc4vm3t8lup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
